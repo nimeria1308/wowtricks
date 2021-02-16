@@ -79,6 +79,10 @@ li {
     padding-left: 10px;
 }
 
+.c2 img {
+    width: 100%;
+}
+
 @media (min-width: 600px) {
     .c1 {
         padding-top: 50px;
