@@ -87,7 +87,7 @@ $page_title = "Kyrian Covenant: Best Class Abilities";
             <p> Vesper Totem is a ground-targeted cooldown ability that places a totem at the designated area. When you cast a damage ability the totem radiates AoE damage to 6 enemies near the totem, and similarly when you cast a healing ability the
                 totem radiates AoE healing to 6 allies near the totem. The totem can be relocated to a new designated area simply by reactivating the ability while the totem is active.</p>
             <h4 id="section_2_2_11">Warlock <a href="#top">[TOP]</a></h4>
-            <p> Scouring Tithe is a cooldown ability that deals upfront damage and applies an 18s damage over time effect to your main target. If the target dies with the DoT still applied, then you'll generate 5 Soul Shards. If the DoT expires naturally
+            <p><a href="/destruction_warlock_guide" title="Comprehensive guide on Destruction Warlocks">Warlock characters</a> have the <em>Scouring Tithe</em>: a cooldown ability that deals upfront damage and applies an 18s damage over time effect to your main target. If the target dies with the DoT still applied, then you'll generate 5 Soul Shards. If the DoT expires naturally
                 after 18s then the cooldown is instantly refreshed.</p>
             <h4 id="section_2_2_12">Warrior <a href="#top">[TOP]</a></h4>
             <p> Spear of Bastion is a ground-targeted AoE cooldown ability that generates 25 rage, deals upfront damage, and applies a short duration damage over time effect to any enemies in the targeted location. All enemies hit are tethered to the

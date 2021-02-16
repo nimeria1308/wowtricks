@@ -75,9 +75,9 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
     <div class="c4">
         <div class="c2">
             <h2 id="section_1">Overview</h2>
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/A_lsaBQPacA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>Welcome to Wowhead's Destruction Warlock guide, updated for Shadowlands Launch! This guide will teach you to master playing Destruction Warlock in all aspects of the game, helping you to deal optimal DPS in Raids and Mythic+ dungeons.
             </p>
+            <img alt="Undead Warlock" title="Undead Warlock" src="resources/images/warlock_undead.jpg"/>
             <p> Throughout this guide, we will cover many different aspects to increase your Destruction Warlock expertise, including concepts like Destruction Warlock talents and talents builds, Destruction Warlock BiS gear choices, Destruction Warlock stat
                 priorities, among many other aspects of your class and specialization. Make sure to navigate to additional pages of the Destruction Warlock guide to find more in-depth information on topics such as Covenants, Legendaries, Soulbinds, Conduits,
                 Mythic+, and Raids.</p>
@@ -85,6 +85,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <p>Destruction has always been known as a spec that excels at dealing large hits through Chaos Bolt and very strong cleave damage due to Havoc. In Shadowlands, Destruction is receiving multiple changes to our current spells, our talents, and
                 more.
             </p>
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/A_lsaBQPacA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>Our primary resource is Soul Shards which we both generate and spend with a number of abilities in our kit. We can choose to either spend them on Chaos Bolt which is a single target ability or Rain of Fire with is an AoE ability that deals
                 damage over time. We are a very cooldown oriented spec, this means a large portion of our damage is dealt during our Summon Infernal cooldown.</p>
             <p>
@@ -175,7 +176,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <p>Very strong covenant ability on single target and two targets. Starts lacking when introducing more targets. All 3 soulbinds are both viable and strong.
             </p>
             <h5 id="section_2_1_1_3">Kyrian <a href="#top">[TOP]</a></h5>
-            <p>Has a lot of potential if you're able to proc the 5 shard generation from Scouring Tithe. Weaker soulbinds than the above options.
+            <p><a href="/kyrian_covenant_abilities#section_2_2_11" title="Kyrian: Best abilities for your class">The Kyrian Covenant</a> has a lot of potential if you're able to proc the 5 shard generation from Scouring Tithe. Weaker soulbinds than the above options.
             </p>
             <h4 id="section_2_1_2">Best Covenants for Mythic+ <a href="#top">[TOP]</a></h4>
             <p>Both Kyrian and Night Fae are very strong options for Mythic+. The Kyrian ability Scouring Tithe works on both boss fights and trash packs. It's a strong dot with good uptime on bosses and offers a nice burst of Soul Shards on trash packs.
