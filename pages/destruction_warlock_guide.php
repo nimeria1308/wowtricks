@@ -184,7 +184,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <p>Very strong covenant ability on single target and two targets. Starts lacking when introducing more targets. All 3 soulbinds are both viable and strong.
             </p>
             <h5 id="section_2_1_1_3">Kyrian <a href="#top">[TOP]</a></h5>
-            <p><a href="/kyrian_covenant_abilities#section_2_2_11" title="Kyrian: Best abilities for your class">The Kyrian Covenant</a> has a lot of potential if you're able to proc the 5 shard generation from Scouring Tithe. Weaker soulbinds than the above options.
+            <p><a href="kyrian_covenant_abilities#section_2_2_11" title="Kyrian: Best abilities for your class">The Kyrian Covenant</a> has a lot of potential if you're able to proc the 5 shard generation from Scouring Tithe. Weaker soulbinds than the above options.
             </p>
             <h4 id="section_2_1_2">Best Covenants for Mythic+ <a href="#top">[TOP]</a></h4>
             <p>Both Kyrian and Night Fae are very strong options for Mythic+. The Kyrian ability Scouring Tithe works on both boss fights and trash packs. It's a strong dot with good uptime on bosses and offers a nice burst of Soul Shards on trash packs.
