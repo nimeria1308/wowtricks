@@ -69,6 +69,13 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
                         </li>
                     </ol>
                 </li>
+                <li>
+                    <a href="#section_4">Talents</a>
+                    <ol>
+                        <li><a href="#section_4_1">Single Target</a></li>
+                        <li><a href="#section_4_2">AOE (3+ Targets)</a></li>
+                    </ol>
+                </li>
             </ol>
         </nav>
     </div>
@@ -123,6 +130,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
                 </li>
             </ul>
             <h3 id="section_1_3">Races <a href="#top">[TOP]</a></h3>
+            <img alt="Orc Warlock" title="Orc Warlock" src="resources/images/warlock_orc.jpg"/>
             <ul>
                 <li>
                     Horde
@@ -191,6 +199,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
                 <li>Venthyr: 12.3%</li>
             </ol>
             <h2 id="section_3">Legendaries <a href="#top">[TOP]</a></h2>
+            <img alt="Blood Elf Warlock" title="Blood Elf Warlock" src="resources/images/warlock_blood_elf.jpg" class="float"/>
             <p>Shadowlands Legendary powers grant impactful gameplay effects for your Destruction Warlock through the new Runecarving system. As your crafted Shadowlands legendary will be the most important piece of gear in the expansion, providing large
                 performance benefits, it is crucial to pick the right legendary to craft and effectively spend your Soul Ash.
             </p>
@@ -239,6 +248,29 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <h5 id="section_3_2_2_2">Relic of Demonic Synergy <a href="#top">[TOP]</a></h5>
             <p>The increased % damage proc it grants you is very strong in every single scenario. A small bonus is, this legendary can also be used in the other two Warlock specs.
             </p>
+            <h2 id="section_4">Talents <a href="#top">[TOP]</a></h2>
+            <h3 id="section_4_1">Single Target <a href="#top">[TOP]</a></h3>
+            <p>
+            This setup offers you solid Single Target damage while still being able to cleave. Especially with Roaring Blaze also being applied through  Havoc.
+            </p>
+            <p>
+            This setup is even stronger with the  Cinders of the Azj'Aqir Legendary bonus. More  Conflagrate casts means more  Backdraft stacks through  Flashover and more uptime on  Roaring Blaze.
+            </p>
+            <img src="resources/images/warlock_talents_single.png"/>
+            <h3 id="section_4_2">AOE (3+ Targets) <a href="#top">[TOP]</a></h3>
+            <p>
+            If there are enough targets, you can swap out  Fire and Brimstone for  Inferno.
+            </p>
+            <p>
+            This setup revolves around your  Summon Infernal cooldown and proccing as many extra infernals through  Rain of Chaos as you can.
+            </p>
+            <p>
+            This setup is even stronger when paired with the  Wilfred's Sigil of Superior Summoning Legendary bonus. This allows you to reduce the cooldown of your  Summon Infernal significantly.
+            </p>
+            <p>
+            Alternatively, if you need more on-demand burst, you can swap out  Soul Conduit for  Dark Soul: Instability.
+            </p>
+            <img src="resources/images/warlock_talents_aoe.png"/>
         </div>
     </div>
 </div>

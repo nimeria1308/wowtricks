@@ -57,6 +57,7 @@ $page_title = "Kyrian Covenant: Best Class Abilities";
                 to all party members
             </p>
             <h3 id="section_2_2">Class Combat Abilities <a href="#top">[TOP]</a></h3>
+            <img alt="Kyrian Champions" title="Kyrian Champions" src="/resources/images/kyrian_champs.jpg" />
             <p>These are different for each class.</p>
             <h4 id="section_2_2_1">Death Knight <a href="#top">[TOP]</a></h4>
             <p> Shackle the Unworthy is a hasted single target damage over time cooldown ability. While Shackle the Unworthy is active on an enemy, that enemy deals 5% less damage to you and your direct damage rune-spending attacks have a 50% to spread
@@ -92,6 +93,7 @@ $page_title = "Kyrian Covenant: Best Class Abilities";
             <h4 id="section_2_2_12">Warrior <a href="#top">[TOP]</a></h4>
             <p> Spear of Bastion is a ground-targeted AoE cooldown ability that generates 25 rage, deals upfront damage, and applies a short duration damage over time effect to any enemies in the targeted location. All enemies hit are tethered to the
                 targeted location for the duration of the DoT.</p>
+            <img alt="View from a distance of Elysian Hold in Bastion" title="View from a distance of Elysian Hold in Bastion" src="/resources/images/kyrian_elisian_hold.jpg" />
         </div>
     </div>
 </div>
