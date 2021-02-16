@@ -138,6 +138,16 @@ a:hover,
     color: #fff;
 }
 
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    font-size: 50%;
+    vertical-align: top;
+}
+
 
 /* https://www.w3schools.com/howto/howto_css_dropdown.asp */
 

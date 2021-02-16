@@ -26,8 +26,8 @@
         <div class="page_title">
             <h1><?= $page_title ?></h1>
         </div>
-        <?= $page_content ?><
-        /div>
+        <a id="top"></a>
+        <?= $page_content ?></div>
     <div class="footer">
         Copyright (C) <span id="year"></span> Simona Dimitrova
     </div>
