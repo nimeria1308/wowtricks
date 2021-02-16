@@ -256,6 +256,10 @@ h6 a {
     background-color: #111;
 }
 
+.menu_item li.inactive img {
+    opacity: 0.3;
+}
+
 img.portrait {
     width: 90%;
     clip-path: circle(60px at center);
