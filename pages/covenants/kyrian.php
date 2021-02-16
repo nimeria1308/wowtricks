@@ -40,7 +40,7 @@
                 The Kyrian are the first Covenant that you'll encounter in the Shadowlands. They assume the role of angelic soul guides, tasked with shuttling souls between the lands of the living and the dead. The Val'kyr are ranked among the highest eschelon of the
                 Kyrian and at max level, you'll get the option to join them as a member and get access to Kyrian-specific rewards, including a class-specific ability, movement ability, and cosmetic rewards!
             </p>
-            <img alt="kyrian covenant" src="resources/images/kyrian.jpg" />
+            <img alt="kyrian covenant" src="/resources/images/kyrian.jpg" />
             <p>
                 The Kyrian are one of the four Covenants of the Shadowlands, assuming the role of angelic soul guides, tasked with shuttling souls between the lands of the living and the dead. The Val'kyr are ranked among the highest eschelon of the Kyrian. These angelic
                 beings embrace humility and service to the order.
