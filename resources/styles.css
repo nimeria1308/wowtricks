@@ -29,7 +29,8 @@
     font-family: wow, Arial, Helvetica, sans-serif;
     font-size: 64px;
     color: #09f;
-    text-shadow: 5px 5px #222;
+    /* text-shadow: 5px 5px #222; */
+    filter: drop-shadow(5px 5px 7px #000);
     padding: 10px;
     box-sizing: border-box;
 }
@@ -50,7 +51,7 @@ html {
     min-height: 100%;
     background-color: #222;
     background: linear-gradient(90deg, #111 0%, #222 100%);
-    background: url("shadowlands.jpg") fixed center;
+    background: url("images/shadowlands.jpg") fixed center;
     background-origin: content-box;
     /* background-size: 150; */
     /* background-size: cover; */
@@ -64,6 +65,7 @@ body {
 
 @media (min-width: 600px) {
     .c1 {
+        padding-top: 50px;
         width: 25%;
     }
     .c4 {
@@ -78,6 +80,7 @@ body {
     .container,
     .menu,
     .header_logo,
+    .page_title,
     .footer {
         /* <800 zaradi marginite, inache se poiaviava scrollbar */
         width: 760px;
@@ -87,10 +90,12 @@ body {
 }
 
 .menu {
-    padding: 10px;
+    /* padding: 10px; */
     box-sizing: border-box;
     background-color: #111;
-    background: rgba(0, 0, 0, 0.95)
+    background: rgba(0, 0, 0, 0.95);
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .menu_link {
@@ -111,4 +116,80 @@ a {
 
 a:hover {
     color: #fff;
+}
+
+
+/* https://www.w3schools.com/howto/howto_css_dropdown.asp */
+
+.dropdown {
+    /* position: relative; */
+    /* display: inline-block; */
+}
+
+.dropdown_content {
+    /* display: none; */
+    position: absolute;
+    background-color: #222;
+    color: #aaa;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.9);
+    /* box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); */
+    box-shadow: 0px 4px 16px 4px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+
+/* https://stackoverflow.com/questions/3331353/transitions-on-the-css-display-property */
+
+.dropdown_content {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0.25s, opacity 0.25s ease-in;
+}
+
+.dropdown:hover .dropdown_content {
+    /* display: block; */
+    opacity: 1;
+    visibility: visible;
+    transition: visibility 0.25s, opacity 0.25s ease-out;
+}
+
+.dropdown:hover .dropdown_button {
+    background-color: #222;
+}
+
+.dropdown_button {
+    padding: 10px;
+}
+
+
+/* https://www.w3schools.com/css/css_grid.asp */
+
+.menu_classes {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.menu_classes div a {
+    display: block;
+    padding: 10px;
+}
+
+.menu_classes div:hover {
+    background-color: #222;
+}
+
+
+/* https://www.w3schools.com/css/css3_mediaqueries.asp */
+
+@media print {
+    .menu {
+        display: none;
+    }
+    .logo {
+        display: none;
+    }
+    .header_logo {
+        display: none;
+    }
 }
