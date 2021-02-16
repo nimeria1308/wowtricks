@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">
+    <sitemap>
+        <loc>https://nimeria1308.github.com/wowtricks/sitemap.xml</loc>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://nimeria1308.github.com/wowtricks/image-sitemap.xml</loc>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://nimeria1308.github.com/wowtricks/video-sitemap.xml</loc>
+    </sitemap>
+</sitemapindex>

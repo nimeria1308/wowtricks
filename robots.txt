@@ -1,0 +1,3 @@
+Sitemap: https://nimeria1308.github.com/wowtricks/sitemap.xml
+Sitemap: https://nimeria1308.github.com/wowtricks/image-sitemap.xml
+Sitemap: https://nimeria1308.github.com/wowtricks/video-sitemap.xml

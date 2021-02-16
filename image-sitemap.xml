@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+        <loc>https://nimeria1308.github.io/wowtricks/destruction_warlock_guide</loc>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_undead.jpg</image:loc>
+            <image:caption>Undead Warlock</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_orc.jpg</image:loc>
+            <image:caption>Orc Warlock</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_blood_elf.jpg" class="float</image:loc>
+            <image:caption>Blood Elf Warlock</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_talents_single.png</image:loc>
+            <image:caption>Warlock talent tree for single target</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_talents_aoe.png</image:loc>
+            <image:caption>Warlock talent tree for AOE (3+ targets)</image:caption>
+        </image:image>
+    </url>
+
+    <url>
+        <loc>https://nimeria1308.github.io/wowtricks/kyrian_covenant_abilities</loc>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/kyrian.jpg</image:loc>
+            <image:caption>Elysian Hold in Bastion</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/kyrian_champs.jpg</image:loc>
+            <image:caption>Kyrian Champions</image:caption>
+        </image:image>
+
+        <image:image>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/kyrian_elisian_hold.jpg</image:loc>
+            <image:caption>View from a distance of Elysian Hold in Bastion</image:caption>
+        </image:image>
+
+    </url>
+</urlset>

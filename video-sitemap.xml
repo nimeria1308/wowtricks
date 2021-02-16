@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+    <url>
+        <loc>https://nimeria1308.github.io/wowtricks/</loc>
+
+        <video:video>
+            <video:player_loc allow_embed="yes">https://www.youtube.com/v/s4gBChg6AII</video:player_loc>
+            <video:thumbnail_loc>https://img.youtube.com/vi/s4gBChg6AII/default.jpg</video:thumbnail_loc>
+            <video:title>World of Warcraft: Shadowlands Cinematic Trailer</video:title>
+            <video:description>The veil between life and death is no more. Discover what lies beyond the world you know in the next chapter of the World of Warcraft saga-Shadowlands.</video:description>
+            <video:tag>wow</video:tag>
+            <video:tag>wowtricks</video:tag>
+            <video:tag>shadowlands</video:tag>
+            <video:category>games</video:category>
+        </video:video>
+    </url>
+
+    <url>
+        <loc>https://nimeria1308.github.io/wowtricks/destruction_warlock_guide</loc>
+
+        <video:video>
+            <video:player_loc allow_embed="yes">https://www.youtube.com/v/A_lsaBQPacA</video:player_loc>
+            <video:thumbnail_loc>https://img.youtube.com/vi/A_lsaBQPacA/default.jpg</video:thumbnail_loc>
+            <video:title>Shadowlands Destruction Warlock DPS Guide</video:title>
+            <video:description>Destruction Warlocks DPS Guide! While Destro might not have received as many changes as Affliction, there are still plenty of new systems to cover.</video:description>
+            <video:tag>wow</video:tag>
+            <video:tag>wowtricks</video:tag>
+            <video:tag>shadowlands</video:tag>
+            <video:tag>guide</video:tag>
+            <video:tag>warlock</video:tag>
+            <video:tag>destruction warlock</video:tag>
+            <video:category>games</video:category>
+        </video:video>
+    </url>
+</urlset>
