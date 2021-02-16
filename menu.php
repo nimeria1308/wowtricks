@@ -6,42 +6,42 @@
         <nav class="menu_classes menu_item">
             <ul>
                 <li class="inactive">
-                    <img alt="Death Knight class icon" src="/resources/images/spell_deathknight_bloodpresence.gif" /> Death Knight
+                    <img alt="Death Knight class icon" src="/resources/images/classicon_deathknight.jpg" /> Death Knight
                 </li>
                 <li class="inactive">
-                    <img alt="Demon Hunter class icon" src="/resources/images/ability_demonhunter_spectank.gif" /> Demon Hunter
+                    <img alt="Demon Hunter class icon" src="/resources/images/classicon_demonhunter.jpg" /> Demon Hunter
                 </li>
                 <li class="inactive">
-                    <img alt="Druid class icon" src="/resources/images/talentspec_druid_feral_bear.gif" /> Druid
+                    <img alt="Druid class icon" src="/resources/images/classicon_druid.jpg" /> Druid
                 </li>
                 <li class="inactive">
-                    <img alt="Hunter class icon" src="/resources/images/ability_marksmanship.gif" /> Hunter
+                    <img alt="Hunter class icon" src="/resources/images/classicon_hunter.jpg" /> Hunter
                 </li>
                 <li class="inactive">
-                    <img alt="Mage class icon" src="/resources/images/spell_fire_firebolt02.gif" /> Mage
+                    <img alt="Mage class icon" src="/resources/images/classicon_mage.jpg" /> Mage
                 </li>
                 <li class="inactive">
-                    <img alt="Monk class icon" src="/resources/images/spell_monk_windwalker_spec.gif" /> Monk
+                    <img alt="Monk class icon" src="/resources/images/classicon_monk.jpg" /> Monk
                 </li>
                 <li class="inactive">
-                    <img alt="Paladin class icon" src="/resources/images/spell_holy_holybolt.gif" /> Paladin
+                    <img alt="Paladin class icon" src="/resources/images/classicon_paladin.jpg" /> Paladin
                 </li>
                 <li class="inactive">
-                    <img width="15" height="15" alt="Priest class icon" src="/resources/images/spell_shadow_shadowwordpain.gif" /> Priest
+                    <img alt="Priest class icon" src="/resources/images/classicon_priest.jpg" /> Priest
                 </li>
                 <li class="inactive">
-                    <img width="15" height="15" alt="Rogue class icon" src="/resources/images/ability_stealth.gif" /> Rogue
+                    <img alt="Rogue class icon" src="/resources/images/classicon_rogue.jpg" /> Rogue
                 </li>
                 <li class="inactive">
-                    <img width="15" height="15" alt="Shaman class icon" src="/resources/images/spell_nature_lightning.gif" /> Shaman
+                    <img alt="Shaman class icon" src="/resources/images/classicon_shaman.jpg" /> Shaman
                 </li>
-                <li class="inactive">
+                <li>
                     <a href="/destruction_warlock_guide" title="Comprehensive guide on Destruction Warlocks">
-                        <img width="15" height="15" alt="Warlock class icon" src="/resources/images/spell_shadow_rainoffire.gif" /> Warlock
+                        <img alt="Warlock class icon" src="/resources/images/classicon_warlock.jpg" /> Warlock
                     </a>
                 </li>
                 <li class="inactive">
-                    <img width="15" height="15" alt="Warrior class icon" src="/resources/images/ability_warrior_innerrage.gif" /> Warrior
+                    <img alt="Warrior class icon" src="/resources/images/classicon_warrior.jpg" /> Warrior
                 </li>
             </ul>
         </nav>
@@ -57,17 +57,17 @@
             <ul>
                 <li>
                     <a href="/kyrian_covenant_abilities" title="Kyrian: Best abilities for your class">
-                        <img alt="Kyrian covenant icon" src="/resources/images/ui_sigil_kyrian.gif" /> Kyrian
+                        <img alt="Kyrian covenant icon" src="/resources/images/ui_sigil_kyrian.jpg" /> Kyrian
                     </a>
                 </li>
                 <li class="inactive">
-                    <img alt="Necrolord covenant icon" src="/resources/images/ui_sigil_necrolord.gif" /> Kyrian
+                    <img alt="Necrolord covenant icon" src="/resources/images/ui_sigil_necrolord.jpg" /> Kyrian
                 </li>
                 <li class="inactive">
-                    <img alt="Night covenant icon fae" src="/resources/images/ui_sigil_nightfae.gif" /> Night Fae
+                    <img alt="Night covenant icon fae" src="/resources/images/ui_sigil_nightfae.jpg" /> Night Fae
                 </li>
                 <li class="inactive">
-                    <img alt="Ventyr covenant icon" src="/resources/images/ui_sigil_venthyr.gif" /> Venthyr
+                    <img alt="Ventyr covenant icon" src="/resources/images/ui_sigil_venthyr.jpg" /> Venthyr
                 </li>
             </ul>
         </nav>

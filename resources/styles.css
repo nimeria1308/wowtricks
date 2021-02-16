@@ -199,8 +199,8 @@ h6 a {
 }
 
 .menu_item img {
-    width: 20px;
-    height: 20px;
+    width: 24px;
+    height: 24px;
     padding: 4px;
     vertical-align: middle;
 }
@@ -225,7 +225,7 @@ h6 a {
 }
 
 .menu_item li.inactive:hover {
-    background-color: #141414;
+    background-color: #111;
 }
 
 
