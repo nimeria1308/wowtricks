@@ -22,6 +22,12 @@ function locationHashChanged() {
     var page = "home";
     if (location.hash) {
         page = location.hash.substr(1);
+
+        if (page.startsWith("section_")) {
+            // niama da zarejdame vutreshna stranica,
+            // a e link do sekcia na sushtata stranica
+            return;
+        }
     }
     loadDoc('pages/' + page + '.html');
 }
