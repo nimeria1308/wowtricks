@@ -92,7 +92,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <p>Destruction has always been known as a spec that excels at dealing large hits through Chaos Bolt and very strong cleave damage due to Havoc. In Shadowlands, Destruction is receiving multiple changes to our current spells, our talents, and
                 more.
             </p>
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/A_lsaBQPacA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe height="315" src="https://www.youtube.com/embed/A_lsaBQPacA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <p>Our primary resource is Soul Shards which we both generate and spend with a number of abilities in our kit. We can choose to either spend them on Chaos Bolt which is a single target ability or Rain of Fire with is an AoE ability that deals
                 damage over time. We are a very cooldown oriented spec, this means a large portion of our damage is dealt during our Summon Infernal cooldown.</p>
             <p>

@@ -12,7 +12,7 @@
     </div>
     <div class="c4">
         <div class="c2">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/s4gBChg6AII" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe height="315" src="https://www.youtube.com/embed/s4gBChg6AII" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="c3">
             Check our guides on classes, covenants and dungeons!

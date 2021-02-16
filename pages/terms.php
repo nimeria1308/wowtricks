@@ -8,11 +8,13 @@
             <h2>table of contents</h2>
             <ol>
                 <li><a href="#section_1">Terms and Conditions</a></li>
-                <li><a href="#section_2">Interpretation and Definitions</a></li>
-                <ol>
-                    <li><a href="#section_2_1">Interpretation</a></li>
-                    <li><a href="#section_2_2">Definitions</a></li>
-                </ol>
+                <li>
+                    <a href="#section_2">Interpretation and Definitions</a>
+                    <ol>
+                        <li><a href="#section_2_1">Interpretation</a></li>
+                        <li><a href="#section_2_2">Definitions</a></li>
+                    </ol>
+                </li>
                 <li><a href="#section_3">Acknowledgment</a></li>
                 <li><a href="#section_4">Links to Other Websites</a></li>
                 <li><a href="#section_5">Termination</a></li>
@@ -22,11 +24,13 @@
                 <li><a href="#section_9">Disputes Resolution</a></li>
                 <li><a href="#section_10">For European Union (EU) Users</a></li>
                 <li><a href="#section_11">United States Legal Compliance</a></li>
-                <li><a href="#section_12">Severability and Waiver</a></li>
-                <ol>
-                    <li><a href="#section_12_1">Severability</a></li>
-                    <li><a href="#section_12_2">Waiver</a></li>
-                </ol>
+                <li>
+                    <a href="#section_12">Severability and Waiver</a>
+                    <ol>
+                        <li><a href="#section_12_1">Severability</a></li>
+                        <li><a href="#section_12_2">Waiver</a></li>
+                    </ol>
+                </li>
                 <li><a href="#section_13">Translation Interpretation</a></li>
                 <li><a href="#section_14">Changes to These Terms and Conditions</a></li>
                 <li><a href="#section_15">Contact Us</a></li>

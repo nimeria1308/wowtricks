@@ -262,7 +262,12 @@ h6 a {
 
 img.portrait {
     width: 90%;
-    clip-path: circle(60px at center);
+    clip-path: circle(50% at center);
+}
+
+iframe {
+    width: 100%;
+    border: none;
 }
 
 
