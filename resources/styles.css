@@ -201,6 +201,26 @@ h6 a {
 
 /* https://www.w3schools.com/css/css_grid.asp */
 
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.footer nav {
+    text-align: right;
+}
+
+.footer ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.footer li {
+    padding: 0 10px;
+    display: inline;
+}
+
 .menu_classes ul {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -234,6 +254,11 @@ h6 a {
 
 .menu_item li.inactive:hover {
     background-color: #111;
+}
+
+img.portrait {
+    width: 90%;
+    clip-path: circle(60px at center);
 }
 
 

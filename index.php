@@ -29,7 +29,16 @@
         <a id="top"></a>
         <?= $page_content ?></div>
     <div class="footer">
-        Copyright (C) <span id="year"></span> Simona Dimitrova
+        <div>
+            Copyright (C) <span id="year"></span> Simona Dimitrova
+        </div>
+        <nav>
+            <ul>
+                <li><a href="/terms">Terms and Conditions</a></li>
+                <li><a href="/privacy">Privacy Policy</a></li>
+                <li><a href="/about">About</a></li>
+            </ul>
+        </nav>
     </div>
     <script src="/resources/scripts.js"></script>
 </body>
