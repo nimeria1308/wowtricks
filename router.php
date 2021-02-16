@@ -17,7 +17,7 @@ $page_title = "";
 $path = "pages/$path.php";
 
 if (!file_exists($path)) {
-    $path = "pages/404.php";
+    $path = "404.php";
 }
 
 ob_start();
