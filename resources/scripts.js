@@ -1,15 +1,14 @@
 // https://www.w3schools.com/js/js_ajax_intro.asp
 function loadDoc(url) {
-    console.log(url);
-
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
-        if (this.readyState == 4) {
-            if (this.status == 200) {
+        if (this.readyState === 4) {
+            if (this.status === 200) {
                 var el = document.getElementById("page_content");
                 el.innerHTML = this.responseText;
             } else {
                 alert("Page is not available");
+                history.back();
             }
         }
     };
