@@ -1,0 +1,114 @@
+.c1,
+.c2,
+.c3,
+.c4 {
+    width: 100%;
+    color: #aaa;
+}
+
+.c1,
+.c2,
+.c3 {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #222;
+    background: rgba(16, 16, 16, 0.95);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@font-face {
+    font-family: "wow";
+    src: url("livecraft.woff");
+}
+
+.header_logo {
+    font-family: wow, Arial, Helvetica, sans-serif;
+    font-size: 64px;
+    color: #09f;
+    text-shadow: 5px 5px #222;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: #000;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #111;
+    background: rgba(0, 0, 0, 0.85);
+    color: #aaa;
+    font-variant: small-caps;
+    font-size: 80%;
+}
+
+html {
+    min-width: 100%;
+    min-height: 100%;
+    background-color: #222;
+    background: linear-gradient(90deg, #111 0%, #222 100%);
+    background: url("shadowlands.jpg") fixed center;
+    background-origin: content-box;
+    /* background-size: 150; */
+    /* background-size: cover; */
+    background-size: auto 120%;
+}
+
+body {
+    margin: 20px;
+    font-family: myfont, Arial, Helvetica, sans-serif;
+}
+
+@media (min-width: 600px) {
+    .c1 {
+        width: 25%;
+    }
+    .c4 {
+        width: 75%;
+    }
+    .container {
+        flex-wrap: nowrap;
+    }
+}
+
+@media (min-width: 800px) {
+    .container,
+    .menu,
+    .header_logo,
+    .footer {
+        /* <800 zaradi marginite, inache se poiaviava scrollbar */
+        width: 760px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.menu {
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #111;
+    background: rgba(0, 0, 0, 0.95)
+}
+
+.menu_link {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    margin: 0 10px;
+}
+
+.c1 {
+    background: rgba(16, 16, 16, 0.5);
+}
+
+a {
+    color: #999;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
