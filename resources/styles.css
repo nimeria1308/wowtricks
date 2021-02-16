@@ -128,12 +128,14 @@ li {
     background: rgba(16, 16, 16, 0.5);
 }
 
-a {
-    color: #999;
+a,
+.menu_link {
+    color: #aaa;
     text-decoration: none;
 }
 
-a:hover {
+a:hover,
+.menu_link:hover {
     color: #fff;
 }
 
@@ -173,21 +175,47 @@ a:hover {
     padding: 10px;
 }
 
+.dropdown_content ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
 
 /* https://www.w3schools.com/css/css_grid.asp */
 
-.menu_classes {
+.menu_classes ul {
     display: grid;
     grid-template-columns: auto auto auto;
 }
 
-.menu_item a {
-    display: block;
+.menu_item img {
+    width: 20px;
+    height: 20px;
+    padding: 4px;
+    vertical-align: middle;
+}
+
+.menu_item li {
     padding: 10px;
 }
 
-.menu_item div:hover {
+.menu_item li,
+.menu_item a {
+    display: block;
+}
+
+.menu_item li:hover {
     background-color: #222;
+}
+
+.menu_item li.inactive {
+    color: #555;
+    cursor: not-allowed;
+}
+
+.menu_item li.inactive:hover {
+    background-color: #141414;
 }
 
 

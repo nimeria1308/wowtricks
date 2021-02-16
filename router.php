@@ -1,5 +1,4 @@
 <?php
-// echo $_SERVER["REQUEST_URI"];
 $path = $_SERVER["REQUEST_URI"];
 
 if ($path == "/") {
