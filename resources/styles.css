@@ -131,7 +131,6 @@ li {
 a,
 .menu_link {
     color: #aaa;
-    text-decoration: none;
 }
 
 a:hover,
@@ -203,6 +202,7 @@ a:hover,
 .menu_item li,
 .menu_item a {
     display: block;
+    text-decoration: none;
 }
 
 .menu_item li:hover {
