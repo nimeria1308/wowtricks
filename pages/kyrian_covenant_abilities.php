@@ -41,7 +41,7 @@ $page_title = "Kyrian Covenant: Best Class Abilities";
                 The Kyrian are the first Covenant that you'll encounter in the Shadowlands. They assume the role of angelic soul guides, tasked with shuttling souls between the lands of the living and the dead. The Val'kyr are ranked among the highest eschelon of the
                 Kyrian and at max level, you'll get the option to join them as a member and get access to Kyrian-specific rewards, including a class-specific ability, movement ability, and cosmetic rewards!
             </p>
-            <img alt="Elysian Hold in Bastion" title="Elysian Hold in Bastion" src="/resources/images/kyrian.jpg" />
+            <img alt="Elysian Hold in Bastion" src="/resources/images/kyrian.jpg" />
             <p>
                 The Kyrian are one of the four Covenants of the Shadowlands, assuming the role of angelic soul guides, tasked with shuttling souls between the lands of the living and the dead. The Val'kyr are ranked among the highest eschelon of the Kyrian. These angelic
                 beings embrace humility and service to the order.
@@ -57,7 +57,7 @@ $page_title = "Kyrian Covenant: Best Class Abilities";
                 to all party members
             </p>
             <h3 id="section_2_2">Class Combat Abilities <a href="#top">[TOP]</a></h3>
-            <img alt="Kyrian Champions" title="Kyrian Champions" src="/resources/images/kyrian_champs.jpg" />
+            <img alt="Kyrian Champions" src="/resources/images/kyrian_champs.jpg" />
             <p>These are different for each class.</p>
             <h4 id="section_2_2_1">Death Knight <a href="#top">[TOP]</a></h4>
             <p> Shackle the Unworthy is a hasted single target damage over time cooldown ability. While Shackle the Unworthy is active on an enemy, that enemy deals 5% less damage to you and your direct damage rune-spending attacks have a 50% to spread
@@ -93,7 +93,7 @@ $page_title = "Kyrian Covenant: Best Class Abilities";
             <h4 id="section_2_2_12">Warrior <a href="#top">[TOP]</a></h4>
             <p> Spear of Bastion is a ground-targeted AoE cooldown ability that generates 25 rage, deals upfront damage, and applies a short duration damage over time effect to any enemies in the targeted location. All enemies hit are tethered to the
                 targeted location for the duration of the DoT.</p>
-            <img alt="View from a distance of Elysian Hold in Bastion" title="View from a distance of Elysian Hold in Bastion" src="/resources/images/kyrian_elisian_hold.jpg" />
+            <img alt="View from a distance of Elysian Hold in Bastion" src="/resources/images/kyrian_elisian_hold.jpg" />
         </div>
     </div>
 </div>

@@ -84,7 +84,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <h2 id="section_1">Overview</h2>
             <p>Welcome to Wowhead's Destruction Warlock guide, updated for Shadowlands Launch! This guide will teach you to master playing Destruction Warlock in all aspects of the game, helping you to deal optimal DPS in Raids and Mythic+ dungeons.
             </p>
-            <img alt="Undead Warlock" title="Undead Warlock" src="resources/images/warlock_undead.jpg"/>
+            <img alt="Undead Warlock" src="resources/images/warlock_undead.jpg"/>
             <p> Throughout this guide, we will cover many different aspects to increase your Destruction Warlock expertise, including concepts like Destruction Warlock talents and talents builds, Destruction Warlock BiS gear choices, Destruction Warlock stat
                 priorities, among many other aspects of your class and specialization. Make sure to navigate to additional pages of the Destruction Warlock guide to find more in-depth information on topics such as Covenants, Legendaries, Soulbinds, Conduits,
                 Mythic+, and Raids.</p>
@@ -130,7 +130,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
                 </li>
             </ul>
             <h3 id="section_1_3">Races <a href="#top">[TOP]</a></h3>
-            <img alt="Orc Warlock" title="Orc Warlock" src="resources/images/warlock_orc.jpg"/>
+            <img alt="Orc Warlock" src="resources/images/warlock_orc.jpg"/>
             <ul>
                 <li>
                     Horde
@@ -199,7 +199,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
                 <li>Venthyr: 12.3%</li>
             </ol>
             <h2 id="section_3">Legendaries <a href="#top">[TOP]</a></h2>
-            <img alt="Blood Elf Warlock" title="Blood Elf Warlock" src="resources/images/warlock_blood_elf.jpg" class="float"/>
+            <img alt="Blood Elf Warlock" src="resources/images/warlock_blood_elf.jpg" class="float"/>
             <p>Shadowlands Legendary powers grant impactful gameplay effects for your Destruction Warlock through the new Runecarving system. As your crafted Shadowlands legendary will be the most important piece of gear in the expansion, providing large
                 performance benefits, it is crucial to pick the right legendary to craft and effectively spend your Soul Ash.
             </p>
@@ -256,7 +256,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <p>
             This setup is even stronger with the  Cinders of the Azj'Aqir Legendary bonus. More  Conflagrate casts means more  Backdraft stacks through  Flashover and more uptime on  Roaring Blaze.
             </p>
-            <img src="resources/images/warlock_talents_single.png"/>
+            <img alt="Warlock talent tree for single target" src="resources/images/warlock_talents_single.png"/>
             <h3 id="section_4_2">AOE (3+ Targets) <a href="#top">[TOP]</a></h3>
             <p>
             If there are enough targets, you can swap out  Fire and Brimstone for  Inferno.
@@ -270,7 +270,7 @@ $page_title = "Destruction Warlock: A Comprehensive Guide";
             <p>
             Alternatively, if you need more on-demand burst, you can swap out  Soul Conduit for  Dark Soul: Instability.
             </p>
-            <img src="resources/images/warlock_talents_aoe.png"/>
+            <img alt="Warlock talent tree for AOE (3+ targets)" src="resources/images/warlock_talents_aoe.png"/>
         </div>
     </div>
 </div>
