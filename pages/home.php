@@ -1,8 +1,3 @@
-<div class="page_title">
-    <h1>
-        HOME
-    </h1>
-</div>
 <div class="container">
     <div class="c1">
         <p>

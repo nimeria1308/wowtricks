@@ -22,7 +22,12 @@
     <div class="menu">
         <?= require 'menu.php' ?>
     </div>
-    <div id="page_content"><?= $page_content ?></div>
+    <div id="page_content">
+        <div class="page_title">
+            <h1><?= $page_title ?></h1>
+        </div>
+        <?= $page_content ?><
+        /div>
     <div class="footer">
         Copyright (C) <span id="year"></span> Simona Dimitrova
     </div>

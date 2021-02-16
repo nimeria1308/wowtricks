@@ -1,8 +1,7 @@
-<div class="page_title">
-    <h1>
-        Destruction Warlock
-    </h1>
-</div>
+<?php
+$page_title = "Destruction Warlock Class";
+?>
+
 <div class="container">
     <div class="c1">
         <h2>table of contents</h2>
