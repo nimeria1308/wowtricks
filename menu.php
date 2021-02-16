@@ -36,7 +36,7 @@
                     <img width="15" height="15" alt="Shaman class icon" src="/resources/images/spell_nature_lightning.gif" /> Shaman
                 </li>
                 <li class="inactive">
-                    <a href="/classes/warlock" title="Comprehensive guide on Destruction Warlocks">
+                    <a href="/destruction_warlock_guide" title="Comprehensive guide on Destruction Warlocks">
                         <img width="15" height="15" alt="Warlock class icon" src="/resources/images/spell_shadow_rainoffire.gif" /> Warlock
                     </a>
                 </li>
@@ -56,7 +56,7 @@
         <nav class="menu_item">
             <ul>
                 <li>
-                    <a href="/covenants/kyrian" title="Kyrian: Best abilities for your character">
+                    <a href="/kyrian_covenant_abilities" title="Kyrian: Best abilities for your class">
                         <img alt="Kyrian covenant icon" src="/resources/images/ui_sigil_kyrian.gif" /> Kyrian
                     </a>
                 </li>

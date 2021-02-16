@@ -1,5 +1,5 @@
 <?php
-$page_title = "Kyrian Covenant";
+$page_title = "Kyrian Covenant: Best Class Abilities";
 ?>
 
 <div class="container">

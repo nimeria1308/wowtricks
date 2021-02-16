@@ -1,5 +1,5 @@
 <?php
-$page_title = "Destruction Warlock Class";
+$page_title = "Destruction Warlock: A Comprehensive Guide";
 ?>
 
 <div class="container">
