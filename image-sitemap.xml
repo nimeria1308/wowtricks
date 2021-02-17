@@ -21,12 +21,12 @@
         </image:image>
 
         <image:image>
-            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_talents_single.png</image:loc>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_talents_single.jpg</image:loc>
             <image:caption>Warlock talent tree for single target</image:caption>
         </image:image>
 
         <image:image>
-            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_talents_aoe.png</image:loc>
+            <image:loc>https://nimeria1308.github.io/wowtricks/resources/images/warlock_talents_aoe.jpg</image:loc>
             <image:caption>Warlock talent tree for AOE (3+ targets)</image:caption>
         </image:image>
     </url>
