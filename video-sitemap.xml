@@ -3,7 +3,7 @@
     xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
     <url>
-        <loc>https://nimeria1308.github.io/wowtricks/</loc>
+        <loc>https://nimeria1308.github.io/wowtricks/index.html</loc>
 
         <video:video>
             <video:player_loc allow_embed="yes">https://www.youtube.com/v/s4gBChg6AII</video:player_loc>

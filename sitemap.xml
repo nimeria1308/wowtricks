@@ -5,7 +5,7 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-        <loc>https://nimeria1308.github.io/wowtricks/</loc>
+        <loc>https://nimeria1308.github.io/wowtricks/index.html</loc>
     </url>
 
     <url>
@@ -14,5 +14,17 @@
 
     <url>
         <loc>https://nimeria1308.github.io/wowtricks/kyrian_covenant_abilities.html</loc>
+    </url>
+
+    <url>
+        <loc>https://nimeria1308.github.io/wowtricks/about.html</loc>
+    </url>
+
+    <url>
+        <loc>https://nimeria1308.github.io/wowtricks/privacy.html</loc>
+    </url>
+
+    <url>
+        <loc>https://nimeria1308.github.io/wowtricks/terms.html</loc>
     </url>
 </urlset>
